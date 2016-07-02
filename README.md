@@ -6,7 +6,7 @@
 
 ## BDD for 1С:Enterprise
 
-# Документирование
+### Документирование
 Проект использует принцип формирования автодокументации в формате Markdown и видео.
 * Markdown инструкции лежат [здесь](https://github.com/silverbulleters/vanessa-services/tree/master/ru-RU/behavior/Features) 
 * Видео инструкции лежат [здесь](https://www.youtube.com/channel/UC2mJ4LlMG-FF4qkc_kqN_iQ) 
